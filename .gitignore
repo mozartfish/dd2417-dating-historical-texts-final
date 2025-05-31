@@ -1,0 +1,19 @@
+# Large data files
+*.csv
+*.pt
+*.pth
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Dataset directories
+Datasets/
+safi-work/
+**/model_data/
+
+# Model files
+*.model
+*.bin
+*.safetensors
+EOF
