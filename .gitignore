@@ -8,8 +8,6 @@
 *.hdf5
 
 # Dataset directories
-Datasets/
-safi-work/
 **/model_data/
 
 # Model files
