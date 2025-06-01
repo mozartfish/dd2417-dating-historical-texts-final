@@ -10,6 +10,7 @@
 
 # Dataset directories
 **/model_data/
+**/Embeddings/
 
 # Model files
 *.model
